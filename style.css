@@ -1164,6 +1164,14 @@ footer .copyright {
   }
 
   /* single product */
+
+  .notification {
+    top: 16%;
+    left: 50%;
+
+    padding: 10px 8px;
+  }
+
   #prodetails {
     display: flex;
     flex-direction: column;
